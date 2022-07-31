@@ -1,6 +1,8 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&color=0C1055&center=true&multiline=true&width=500&height=100&lines=Hi+there%2C+I'm+Ismail;Fullstack+developer+from+Russia" alt="Typing SVG" /></a> 
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=4000&color=100A51DB&width=600&height=75&lines=Hi+there%2C+I'm+Ismail;FullStack+developer+from+Russia)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=Sadulaev)
+
+My rank in Codewars :medal_military:
+-------------------
 
 [![codewars](https://www.codewars.com/users/Sadulaev/badges/large)](https://www.codewars.com/users/Sadulaev)
 
@@ -27,7 +29,14 @@ I'm learning &#8595;
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 	![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-My trophies :trophy:
+My github trophies :trophy:
 --------------------
   [![trophy](https://github-profile-trophy.vercel.app/?username=Sadulaev)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+My work stats :chart_with_upwards_trend:
+--------------------
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadulaev&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadulaev&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadulaev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sadulaev&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sadulaev&theme=solarized_dark)
 
