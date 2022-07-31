@@ -1,4 +1,1 @@
-<h1 align="center">Hi there, I'm Ismail 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">FullStack developer from Russia 🇷🇺</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<div border-radius = "15px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&duration=4000&color=F7F0EB&background=30281F&center=true&multiline=true&lines=Hi+there%2C+I'm+Ismail;FullStack+developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a></div>
