@@ -2,7 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&color=0C1055&center=true&multiline=true&width=500&height=100&lines=Hi+there%2C+I'm+Ismail;Fullstack+developer+from+Russia" alt="Typing SVG" /></a> 
 </h1>
 
-## I'm working with &#8595;  
+[![codewars](https://www.codewars.com/users/Sadulaev/badges/large)](https://www.codewars.com/users/Sadulaev)
+
+I'm working with &#8595; 
+------------------------
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -19,10 +22,12 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## I'm learning &#8595; 
-	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+I'm learning &#8595;
+--------------------
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 	![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-### My trophies :trophy: 
-	[![trophy](https://github-profile-trophy.vercel.app/?username=Sadulaev)](https://github.com/ryo-ma/github-profile-trophy)
+My trophies :trophy:
+--------------------
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Sadulaev)](https://github.com/ryo-ma/github-profile-trophy)
 
