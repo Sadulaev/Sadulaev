@@ -12,6 +12,7 @@ I'm working with &#8595;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -25,19 +26,3 @@ I'm working with &#8595;
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-I'm learning &#8595;
---------------------
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-My github trophies :trophy:
---------------------
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Sadulaev)](https://github.com/ryo-ma/github-profile-trophy)
- 
-My work stats :chart_with_upwards_trend:
---------------------
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadulaev&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sadulaev&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sadulaev&theme=github)
-
